@@ -25,9 +25,3 @@ header-includes:
 # Introduction
 
 This is intro section.
-
-
-# Analysis
-
-This is analysis section. 
-
